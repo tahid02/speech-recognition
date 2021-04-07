@@ -1,8 +1,9 @@
 # speech-recognition
 
 #### this is just an experimental approach . Now it takes only below commands
-i will try to make it conversational
-#### {
+i will try to make it conversational later
+#### live:  https://tahid02.github.io/speech-recognition/
+####  {
         command:'hello',
         ans:'welcome to our website do you currently own a car',
         // next time try to make if ans is yes you will ask the car color 
